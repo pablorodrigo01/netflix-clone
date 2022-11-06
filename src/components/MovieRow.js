@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable import/no-anonymous-default-export */
 import React, { useEffect, useState } from "react";
 import './MovieRow.css';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
